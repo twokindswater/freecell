@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{69C6C35F-2162-C95A-5CD9-B3F40FECBF96}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Solitaire.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Solitaire.cs" Line="73" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="freecell" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Solitaire.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="855be5b3-4a65-4ca5-a902-1c8ec07325ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
